@@ -1,0 +1,47 @@
+
+
+header {
+    
+    font-family:cursive;
+    text-decoration: overline;
+    text-decoration-color: #286497;
+    font-size: 1.6em;
+    font-variant: small-caps;
+    
+       
+}
+
+h2 {
+    
+    font-family: sans-serif;
+    font-variant: small-caps;
+    color: #AE0039;
+    font-size: 1.25em;
+}
+
+
+p   {
+    
+    font-family: monospace;
+    font-size: 1.25em;
+  
+    
+    
+    
+    
+}
+
+article {
+   
+    border-width:20px;
+    border-style:solid;
+    border-color:#6C9740;
+    padding: 2em;
+   
+    
+}
+
+#first-article  {
+    
+    border-bottom: none;
+}
